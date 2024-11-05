@@ -1,0 +1,29 @@
+{
+  "name": "1846uf_ap_david_gutierrez",
+  "version": "0.0.1",
+  "description": "Biblioteca en la que puedes realizar diversas busquedas de los autores y las obras",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --watch ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaguraBCN/1846UF_ap_Biblioteca_Node.git"
+  },
+  "keywords": [
+    "Biblioteca",
+    "Autores",
+    "Edicion",
+    "Libros"
+  ],
+  "author": "David Gutierrez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaguraBCN/1846UF_ap_Biblioteca_Node/issues"
+  },
+  "homepage": "https://github.com/DaguraBCN/1846UF_ap_Biblioteca_Node#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
